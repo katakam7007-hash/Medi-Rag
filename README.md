@@ -6,7 +6,7 @@
 Clone the repository
 
   '''bash
-git clone (https://github.com/katakam7007-hash/Medi-Rag.git)
+git clonehttps://github.com/katakam7007-hash/Medi-Rag.git
  '''
  ### STEP 01-Create a conda environment after opening the repository
 
